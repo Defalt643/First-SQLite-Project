@@ -1,7 +1,7 @@
 package com.defalt.firstsqliteproject;
 import java.sql.*;
 import java.util.logging.*;
-public class DelectUser {
+public class DeleteUser {
     public static void main(String[] args) {
         Connection c = null;
         Statement stmt = null;
